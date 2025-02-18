@@ -1,0 +1,23 @@
+header section {
+    display: flex;
+    margin: 0 24px;
+    justify-content: center;
+    border-bottom: 1px solid #F3F3F3;
+}
+
+.logo {
+    width: 50px;
+    height: 42px;
+    margin: 19px 0;
+}
+
+.title {
+    display: flex;
+    justify-content: start;
+}
+
+h1 {
+    margin: 20px 24px;
+    /* добавить еще файл css для шрифтов
+     и добавить в него необходимые шрифты из макета */
+}
